@@ -1,9 +1,7 @@
 # Visualization Checklist
 
-Both coding cheatsheet and written checklist included. Feel free to suggest any changes.
-
-
-Note: Plot types and options are explained in the coding cheat sheet.
+Both coding cheatsheet and checklist are included herewith. Please feel free to suggest any changes. 
+Plot types and options are explained in the coding cheat sheet.
 
 Reference:     
 	https://www.datarevelations.com/truthful-art.html;  
