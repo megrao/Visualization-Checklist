@@ -2,7 +2,7 @@
 
 ## For Evaluation, please refer - Python code base cheat sheet - Updated version 3 and the checklist in pdf or doc format. 
 
-The intial cheatsheet had all the codes but in the updated version, I have incorporated 27 different plots and their variations. Due to errors, I couldn't include them initially.
+The intial cheatsheet had all the codes but in the updated version, I have incorporated 27 different plots and their variations. Due to errors, I couldn't include them initially. I deleted Version 2 to avoid confusion.
 
 Please feel free to suggest any changes. Plot types and options are explained in the coding cheat sheet (updated version 3).
 
