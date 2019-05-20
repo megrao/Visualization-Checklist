@@ -1,10 +1,8 @@
 # Visualization Checklist
 
-## For Evaluation, please refer - Python code base cheat sheet - Updated version 3 and the checklist in pdf or doc format. 
+The intial cheatsheet had all the codes but in the updated version, I have incorporated 27 different plots and their variations. Plot types and options are explained in the coding cheat sheet (updated version 3). Additionally, I have deleted Version 2 to avoid confusion.
 
-The intial cheatsheet had all the codes but in the updated version, I have incorporated 27 different plots and their variations. Due to errors, I couldn't include them initially. Additionally, I have deleted Version 2 to avoid confusion.
-
-Please feel free to suggest any changes. Plot types and options are explained in the coding cheat sheet (updated version 3).
+Please feel free to suggest any changes. 
 
 Reference:     
 	https://www.datarevelations.com/truthful-art.html
