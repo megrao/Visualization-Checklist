@@ -1,10 +1,13 @@
 # Visualization Checklist
 
-The intial cheatsheet had all the codes but in the updated version, I have incorporated 27 different plots and their variations. Plot types and options are explained in the coding cheat sheet (updated version 3). Additionally, I have deleted Version 2 to avoid confusion.
+In the updated version of the Python code base (v3), I have incorporated 27 different plots and their variations. Additionally, Plot types and options are available in the jupyter notebook. Visualization checklist covers 4 phases - Before the Visualization, Select the Visualization, During the Visualization and After the Visualization.
+
+Note: I have deleted Version 2 to avoid confusion. 
 
 Please feel free to suggest any changes. 
 
-Reference:     
+### Reference:     
+
 	https://www.datarevelations.com/truthful-art.html
 
 	The Truthful Art by Alberto Cairo
@@ -35,7 +38,7 @@ Reference:
 
 	For more examples, refer - https://seaborn.pydata.org/tutorial/axis_grids.html
 
-Abbreviation:  
+### Abbreviation:  
 	EDA stands for Exploratory Data Analysis
 
 
